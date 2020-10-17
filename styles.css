@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+  color: limegreen;
+  text-align: center;
+  
+
+}
+
+h1{
+  background-color: gray;
+  height: 50px;
+  padding-top: 25px;
+}
+.tag-table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+  border: 1px solid green;
+  padding: 0.5px;
+}
+
+th, td {
+  background-color: #787878;
+  border: 1px solid green;
+  padding: 5px;
+  
+
+}
+ 
+.table-tags {
+  text-align: center;
+}
+
+.mono {
+  font-family: monospace;
+  background-color: grey;
+  font-weight: lighter;
+}
+
+.column2 {
+  width: 130px;
+  font-weight: bold;
+
+}
+
+.code{
+   font-family: monospace;
+  background-color: grey;
+}
